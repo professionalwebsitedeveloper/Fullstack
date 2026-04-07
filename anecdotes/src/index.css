@@ -1,0 +1,9 @@
+/* basic reset */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+
+#root {
+  padding: 1rem;
+}
